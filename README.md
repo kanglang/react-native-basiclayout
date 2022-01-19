@@ -2,7 +2,7 @@
  * @Author: kanglang
  * @Date: 2022-01-19 15:08:26
  * @LastEditors: kanglang
- * @LastEditTime: 2022-01-19 16:03:08
+ * @LastEditTime: 2022-01-19 17:22:53
  * @Description: 
 -->
 
@@ -13,7 +13,10 @@
 import Basiclayout from 'react-native-basiclayout';
 
 // TODO: What to do with the module?
-Basiclayout;
+<Basiclayout>
+    <Text>这里是子元素</Text>
+</Basiclayout>
+;
 ```
 ## Basiclayout 基础容器组件
 

@@ -2,7 +2,7 @@
  * @Author: kanglang
  * @Date: 2020-10-12 14:46:29
  * @LastEditors: kanglang
- * @LastEditTime: 2022-01-20 12:05:45
+ * @LastEditTime: 2022-01-20 13:48:12
  * @Description: 基础容器
  */
 import React from 'react';
@@ -37,7 +37,6 @@ export default Basiclayout;
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#F2F3F7',
   },
 });
 

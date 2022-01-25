@@ -1,7 +1,7 @@
 
 {
   "name": "react-native-basiclayout",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A basic layout container of react native",
   "main": "index.js",
   "scripts": {
